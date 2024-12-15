@@ -1,0 +1,19 @@
+body {
+    font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+    font-weight: normal;
+    color: #222222;
+    font-size: 16px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    line-height: 1.2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:hsl(312, 75%, 75%)
+}
+
+a {
+    color:hsl(192, 50%, 50%)
+}
+    
